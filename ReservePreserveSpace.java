@@ -1,4 +1,5 @@
 public class ReversePreserveSpaces {
+    
     public static String reversePreserveSpaces(String str) {
         char[] input = str.toCharArray();
         char[] result = new char[input.length];
