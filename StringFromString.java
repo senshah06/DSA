@@ -5,6 +5,7 @@ class Solution {
         if (str2.length() > str1.length()) return false;
         
         HashMap<Character, Integer> freqMap = new HashMap<>();
+        
 
         // Count character frequencies in str1
         for (char c : str1.toCharArray()) {
