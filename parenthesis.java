@@ -1,5 +1,6 @@
 import java.util.Stack;
 
+
 public class ParenthesisChecker {
 
     public static boolean checkParentheses(String str) {
