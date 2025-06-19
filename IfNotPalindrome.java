@@ -1,5 +1,6 @@
 //WAP to check if the string is palindrome
 //if not then rearrange the chars to make it a palindrome
+
 import java.util.HashMap;
 import java.util.Map;
 
