@@ -21,6 +21,7 @@
 // 0 <= height[i] <= 104
 
 
+
 //O(n) approach
 public class Solution {
     public int maxArea(int[] height) {
