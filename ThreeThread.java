@@ -2,6 +2,7 @@ public class ThreeThread implements Runnable {
     // Maximum number to print
     private static final int MAX = 10;
     // Shared number to be printed by threads
+    
     private static int number = 1;
     // Thread ID to identify each thread
     private final int threadId;
