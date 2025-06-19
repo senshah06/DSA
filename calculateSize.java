@@ -1,5 +1,6 @@
 // Calculate filesystem size
 public interface FileSystemSizeCalculator {
+    
     long calculateSize(String path);
 }
 import java.io.IOException;
